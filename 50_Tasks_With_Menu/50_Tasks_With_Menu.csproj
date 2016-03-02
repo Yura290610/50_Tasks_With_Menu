@@ -43,7 +43,38 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="10_task.cs" />
+    <Compile Include="11_task.cs" />
+    <Compile Include="12_task.cs" />
+    <Compile Include="13_task.cs" />
+    <Compile Include="14_task.cs" />
+    <Compile Include="15_task.cs" />
+    <Compile Include="1_task.cs" />
+    <Compile Include="2_task.cs" />
+    <Compile Include="35_task.cs" />
+    <Compile Include="36_task.cs" />
+    <Compile Include="37_task.cs" />
+    <Compile Include="38_task.cs" />
+    <Compile Include="39_task.cs" />
+    <Compile Include="3_task.cs" />
+    <Compile Include="40_task.cs" />
+    <Compile Include="41_task.cs" />
+    <Compile Include="42_task.cs" />
+    <Compile Include="43_task.cs" />
+    <Compile Include="44_task.cs" />
+    <Compile Include="45_task.cs" />
+    <Compile Include="46_task.cs" />
+    <Compile Include="47_task.cs" />
+    <Compile Include="48_task.cs" />
+    <Compile Include="49_task.cs" />
+    <Compile Include="4_task.cs" />
+    <Compile Include="50_task.cs" />
+    <Compile Include="5_task.cs" />
+    <Compile Include="6_task.cs" />
+    <Compile Include="7_task.cs" />
+    <Compile Include="8_task.cs" />
+    <Compile Include="9_task.cs" />
+    <Compile Include="Menu.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
